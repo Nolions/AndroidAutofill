@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">autofill</string>
+    <string name="username">帳號</string>
+    <string name="send">Send</string>
+</resources>
